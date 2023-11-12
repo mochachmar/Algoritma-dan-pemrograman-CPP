@@ -1,0 +1,8 @@
+1. Dasar dasar pemrograman (21/21) 100%
+2. Algoritma pemrograman 2 () 0%
+3. Logika Informatika () 0%
+4. Struktur data () 0 %
+5. Analisis & strategi algoritma () 0%
+6. Konsep PBO/OOP () 0% 
+7. OOP C++ () 0%
+8. Kalkulus () 0%
